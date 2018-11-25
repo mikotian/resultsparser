@@ -1,0 +1,21 @@
+tc1,Pass
+tc1,Pass
+tc1,Fail
+tc1,Pass
+tc1,Fail
+tc1,Blocked
+tc1,Warning
+tc1,Pass
+tc1,Pass
+tc1,Fail
+tc1,Fail
+tc1,Pass
+tc1,Blocked
+tc1,Pass
+tc1,Pass
+tc1,Fail
+tc1,Pass
+tc1,Fail
+tc1,Pass
+tc1,Pass
+tc1,In Progress
